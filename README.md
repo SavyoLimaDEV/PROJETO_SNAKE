@@ -34,7 +34,7 @@ Mais adiante, a ideia é evoluir para uma versão com **melhor visual** e possiv
 
 - Linguagem: **C**
 - Ambiente: **Visual Studio** (Windows)
-- Render: **Console (texto)**
+
 
 ---
 
